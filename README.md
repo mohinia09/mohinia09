@@ -1,6 +1,6 @@
 # Hi, I'm Mohini 👋
 
-## AI Automation Consultant
+## AI Solutions
 
 I help businesses automate workflows and scale operations efficiently. With 12+ years translating complex technical solutions into business outcomes at Enterprise and Startup, I understand how to identify high-impact automation opportunities and deliver results.
 
