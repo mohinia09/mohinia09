@@ -14,9 +14,9 @@
 - Experience with strategic account management and stakeholder engagement
 
 ### Tech Stack
-**AI/ML:** Python · LangChain · LlamaIndex · RAG · LLM APIs (OpenAI, Anthropic) · ChromaDB  
-**Infra:** AWS · Docker · n8n  
-**Engineering:** C++ · Multithreading · REST APIs · Git
+**AI/ML:** Python, LangChain, RAG, LLM APIs (OpenAI, Anthropic), ChromaDB  
+**Infra:** AWS, Docker, FastAPI, Postman, Supabase
+**Engineering:** C++, Multithreading, System Architecture, MCP
 
 📧 [mohini09@gmail.com]  
 💼 [LinkedIn](www.linkedin.com/in/mohini-aggarwal-69977a30)  
