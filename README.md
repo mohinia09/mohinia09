@@ -19,7 +19,7 @@
 **Engineering:** C++, Multithreading, System Architecture, MCP
 
 📧 [mohini.aggarwal.work.com]  
-💼 [LinkedIn](www.linkedin.com/in/mohini-aggarwal-69977a30)
+💼 [LinkedIn](www.linkedin.com/in/mohiniaggarwal09)
 💼 [Portfolio](https://mohini-aggarwal.lovable.app)
 💼 [Substack](https://substack.com/@mohini09)
 📍 India
