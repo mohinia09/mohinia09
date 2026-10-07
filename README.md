@@ -18,8 +18,10 @@
 **Infra:** AWS, Docker, FastAPI, Postman, Supabase
 **Engineering:** C++, Multithreading, System Architecture, MCP
 
-📧 [mohini09@gmail.com]  
-💼 [LinkedIn](www.linkedin.com/in/mohini-aggarwal-69977a30)  
+📧 [mohini.aggarwal.work.com]  
+💼 [LinkedIn](www.linkedin.com/in/mohini-aggarwal-69977a30)
+💼 [Portfolio](https://mohini-aggarwal.lovable.app)
+💼 [Substack](https://substack.com/@mohini09)
 📍 India
 
 ---
